@@ -1,5 +1,9 @@
-## Hi there 👋
+##  Hi there, it's Omar 👋 
 
+I'm a friendly geek who's interested in challenges that combine people and technology at scale in a friendly and growing environment.
+
+
+  
 <!--
 **jphrradhs/jphrradhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
